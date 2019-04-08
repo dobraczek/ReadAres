@@ -11,7 +11,7 @@
 	
 	<meta content="" name="keywords">
 	<meta content="" name="author">
-	
+
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
@@ -34,10 +34,10 @@ $json = $Ares->testIC();
 $array = json_decode($json, 1);
 
 if($array[2])
-    foreach ($array as $data)
-        echo '<strong>'.$data['name'].':</strong> '.$data['value'].'<br />';
+	foreach ($array as $data)
+		echo '<strong>'.$data['name'].':</strong> '.$data['value'].'<br />';
 else
-    echo '<strong>Nastala chyba!</strong><br />'.$array['error']
+	echo '<strong>Nastala chyba!</strong><br />'.$array['error']
 
 ?>
 
