@@ -49,7 +49,7 @@ class Read {
 				'CD' => 'ČP',
 				'PSC' => 'PSČ',
 				'NPF' => 'Právní forma',
-				'Nazev_NACE' => 'ekonomických činností',
+				'Nazev_NACE' => 'ekonomické činnosti',
 				'KPP' => 'velikostní kat. dle počtu zam.',
 				'Zuj_kod_orig' => 'ZÚJ kód',
 				'NZUJ' => 'ZÚJ'
