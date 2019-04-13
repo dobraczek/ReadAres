@@ -1,0 +1,16 @@
+{
+    "name": "ReadAres",
+    "description": "Search VAT to site https://wwwinfo.mfcr.cz/ares/ares_es.html.cz",
+    "keywords": ["mfcr"],
+    "homepage": "https://github.com/dobraczek/ReadAres",
+    "license": "LGPL 2.1",
+    "authors": [
+        {
+            "name": "Martin Dobrý",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": ["ReadAres.php"]
+    }
+}
