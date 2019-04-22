@@ -2,7 +2,7 @@
 
 /**
  * Read Ares
- * @author Martin Dobry
+ * @author Dobr@CZek
  * @link http://webscript.cz
  * @version 1.0
  */
